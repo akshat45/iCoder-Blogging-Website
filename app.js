@@ -60,7 +60,7 @@ passport.deserializeUser(function(id, done) {
 passport.use(new GoogleStrategy({
   clientID: process.env.CLIENT_ID,
   clientSecret: process.env.CLIENT_SECRET,
-  callbackURL: "http://localhost:3000/auth/google/home",
+  callbackURL: "https://infinite-lowlands-65090.herokuapp.com/auth/google/home",
   userProfileURL:"https://www.googleapis.com/oauth2/v3/userinfo"
 },
 function(accessToken, refreshToken, profile, cb) {
@@ -193,8 +193,11 @@ if(req.isAuthenticated()){
   
 
 });
+let port = process.env.PORT;
+if (port == null || port == "") {
+  port = 3000;
+}
 
-
-app.listen(3000, function() {
+app.listen(port, function() {
   console.log("Server has started successfully.");
 });
