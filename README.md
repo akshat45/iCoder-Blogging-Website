@@ -5,10 +5,8 @@ Made using are nodejs,bootstrap,ejs,html,css,javascript
 
 https://infinite-lowlands-65090.herokuapp.com/
 
-
-https://user-images.githubusercontent.com/56089269/120626079-f37edb80-c47f-11eb-8618-4e14af3a4e3f.png
-https://user-images.githubusercontent.com/56089269/120626085-f4b00880-c47f-11eb-99dc-2a5d0d4b4f04.png
-https://user-images.githubusercontent.com/56089269/120626089-f5489f00-c47f-11eb-8e7b-aa97fc268ff1.png
-https://user-images.githubusercontent.com/56089269/120626092-f5e13580-c47f-11eb-9a96-29cc5811185e.png
-https://user-images.githubusercontent.com/56089269/120626103-f7126280-c47f-11eb-807d-6241cfa63e4a.png
-
+![Home Screen](https://user-images.githubusercontent.com/56089269/120627015-de567c80-c480-11eb-946c-a9057aaeee4d.png)
+![Login Screen](https://user-images.githubusercontent.com/56089269/120627048-e44c5d80-c480-11eb-9063-021ead6cc78b.png)
+![Register Screen](https://user-images.githubusercontent.com/56089269/120627049-e4e4f400-c480-11eb-8ae1-8c85de163b1f.png)
+![Blogs](https://user-images.githubusercontent.com/56089269/120627052-e57d8a80-c480-11eb-9bba-cb2e91607790.png)
+![Compose](https://user-images.githubusercontent.com/56089269/120627007-dd254f80-c480-11eb-8d46-17874fcd482a.png)
